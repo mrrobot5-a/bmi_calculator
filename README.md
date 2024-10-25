@@ -10,7 +10,7 @@ The BMI Calculator app allows users to calculate their Body Mass Index (BMI) bas
 
 
 
-[App Preview - Click to Download](https://github.com/mrrobot5-a/bmi-calculator/raw/main/video.mp4)
+[App Preview - Click to Download](file:///Users/ahmedadel/Desktop/video.mp4)
 
 ## Features
 - Select gender (Male or Female)
