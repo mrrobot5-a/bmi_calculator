@@ -1,3 +1,6 @@
+## Video Tutorial
+[Watch the Video Tutorial](https://www.youtube.com/watch?v=eWj2-6q2ybk&t=983s)
+
 # BMI Calculator
 
 ## Description
