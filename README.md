@@ -11,8 +11,7 @@ The BMI Calculator app allows users to calculate their Body Mass Index (BMI) bas
 [App Preview - Click to View](https://github.com/mrrobot5-a/bmi_calculator/raw/master/video.mp4)
 
 <video controls width="500px">
-    <source src="https://github.com/mrrobot5-a/bmi_calculator/raw/master/video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    <source src="https://github.com/mrrobot5-a/bmi_calculator/raw/master/video.mp4">
 </video>
 
 
