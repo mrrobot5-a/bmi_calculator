@@ -1,24 +1,14 @@
-## Video Tutorial
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Video</title>
-</head>
-<body>
-    <h1>Watch My Video</h1>
-    <video width="640" height="480" controls>
-        <source src="C:/Users/PC/Desktop/video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</body>
-</html>
-
 # BMI Calculator
 
 ## Description
 The BMI Calculator app allows users to calculate their Body Mass Index (BMI) based on their height, weight, and gender. The app provides a user-friendly interface for inputting data and displays the BMI result along with an interpretation of the results, helping users understand their body weight status.
+
+# Screens
+| Image 1       | Image 2       | Image 3       |
+|---------------|---------------|---------------|
+| ![Alt1](https://github.com/user-attachments/assets/f1466c5a-1f3c-4f13-9db6-8053c08aa16b) | ![Alt2](https://github.com/user-attachments/assets/6d523c90-cb99-4986-a058-6e79d0a2c460)
+ | ![Alt3](path/to/image3.png) |
+
 
 ## Features
 - Select gender (Male or Female)
