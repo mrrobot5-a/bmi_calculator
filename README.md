@@ -1,5 +1,19 @@
 ## Video Tutorial
-[Watch the Video Tutorial](https://www.youtube.com/watch?v=eWj2-6q2ybk&t=983s)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Video</title>
+</head>
+<body>
+    <h1>Watch My Video</h1>
+    <video width="640" height="480" controls>
+        <source src="video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</body>
+</html>
 
 # BMI Calculator
 
