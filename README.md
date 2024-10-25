@@ -9,7 +9,7 @@
 <body>
     <h1>Watch My Video</h1>
     <video width="640" height="480" controls>
-        <source src="video.mp4" type="video/mp4">
+        <source src="C:/Users/PC/Desktop/video.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </body>
