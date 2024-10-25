@@ -4,10 +4,10 @@
 The BMI Calculator app allows users to calculate their Body Mass Index (BMI) based on their height, weight, and gender. The app provides a user-friendly interface for inputting data and displays the BMI result along with an interpretation of the results, helping users understand their body weight status.
 
 # Screens
-| Image 1       | Image 2       | Image 3       || Image 4       |
+| Image 1       | Image 2       | Image 3       | Image 4       |
+|---------------|---------------|---------------|---------------|
+| ![Alt1](https://github.com/user-attachments/assets/f1466c5a-1f3c-4f13-9db6-8053c08aa16b) | ![Alt2](https://github.com/user-attachments/assets/6d523c90-cb99-4986-a058-6e79d0a2c460) | ![Alt3](https://github.com/user-attachments/assets/54cbdd60-9d6b-4c93-802a-780e973fd5d7) | ![Alt4](https://github.com/user-attachments/assets/c0827a80-2da5-43c1-8f25-caa92b5a9d57) |
 
-|---------------|---------------|---------------|
-| ![Alt1](https://github.com/user-attachments/assets/f1466c5a-1f3c-4f13-9db6-8053c08aa16b) | ![Alt2](https://github.com/user-attachments/assets/6d523c90-cb99-4986-a058-6e79d0a2c460)|![Alt4](https://github.com/user-attachments/assets/c0827a80-2da5-43c1-8f25-caa92b5a9d57)| ![Alt3](https://github.com/user-attachments/assets/54cbdd60-9d6b-4c93-802a-780e973fd5d7)|
 
 
 ## Features
